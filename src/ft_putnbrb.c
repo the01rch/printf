@@ -6,7 +6,7 @@
 /*   By: redrouic <redrouic@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/05 17:27:39 by redrouic          #+#    #+#             */
-/*   Updated: 2023/12/06 15:58:04 by redrouic         ###   ########.fr       */
+/*   Updated: 2023/12/06 16:02:05 by redrouic         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -27,7 +27,7 @@ static size_t	len_nb(unsigned long long int nb)
 	}
 	return (len);
 }
-	
+
 size_t	ft_putnbrb(unsigned long long int nb, const char *base)
 {
 	if (nb > 15)
