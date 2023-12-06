@@ -6,12 +6,13 @@
 #    By: redrouic <redrouic@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/11/15 14:46:29 by redrouic          #+#    #+#              #
-#    Updated: 2023/12/05 17:29:00 by redrouic         ###   ########.fr        #
+#    Updated: 2023/12/06 14:54:33 by redrouic         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 SRC	=	src/ft_putchar.c\
 		src/ft_putstr.c\
+		src/ft_putnbrb.c\
 		src/ft_putnbr.c\
 		src/ft_uputnbr.c\
 		src/ft_printf.c
